@@ -1,0 +1,20 @@
+.card {
+    padding: 1.5em 0.5em 0.5em;
+    border-radius: 1.2em;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  }
+.card img {
+    border-radius: 1.3em;
+    margin: 0 auto;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  }
+.card .card-title {
+    font-weight: 700;
+    font-size: 1.5em;
+  }
+
+#create {
+    padding: 1.5em 0.5em 0.5em;
+    border-radius: 1em;
+    box-shadow: 0 5px 10px rgba(0, 0, 0, 0.2);
+  }

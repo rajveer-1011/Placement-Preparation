@@ -1,0 +1,32 @@
+
+.chat-log {
+    padding: 40px 0 45px;
+    height: auto;
+    overflow: auto;
+}
+
+.chat-log__item {
+    background: #fafafa;
+    padding: 10px;
+    margin: 0 auto 20px;
+    max-width: 80%;
+    float: left;
+    border-radius: 4px;
+    box-shadow: 0 1px 2px rgba(0, 0, 0, .1);
+    clear: both;
+}
+
+.chat-log__item.chat-log__item--own {
+    float: right;
+    background: #DCF8C6;
+    text-align: right;
+}
+
+
+
+.chat-log__author {
+    margin: 0 auto .5em;
+    font-size: 14px;
+    font-weight: bold;
+}
+
